@@ -1,0 +1,8 @@
+Hashes = {
+    Equip = "d3718d32",
+    Damage = "d64d3c62",
+    TirePop = "a585a1db",
+    GrabPlasma = "f988f4ea",
+    RopeAttach = "aae8fedb"
+}
+return Hashes
