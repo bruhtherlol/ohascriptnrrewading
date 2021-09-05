@@ -1,6 +1,0 @@
-Hashes = {
-    Equip = "ba8ed088",
-    Damage = "e93ac8d1",
-    GrabPlasma = "e51078e6"
-}
-return Hashes
